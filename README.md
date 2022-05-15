@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jaimonga420
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python & Django
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Mobile App Development.
+- 🌱 I’m currently learning Dart & Flutter
 - 📫 How to reach me:- Reach me at jaimonga420@gmail.com
 
 <!---
